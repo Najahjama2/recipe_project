@@ -1,1 +1,1 @@
-# recipe_project
+This project will demonstrate my knowledge of basic git and github but also HTML.
